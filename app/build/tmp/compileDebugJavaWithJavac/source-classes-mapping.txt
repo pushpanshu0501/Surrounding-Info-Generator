@@ -1,0 +1,5 @@
+com/example/knowyoursurrounding/MainActivity.java
+ com.example.knowyoursurrounding.MainActivity
+ com.example.knowyoursurrounding.MainActivity$1
+com/example/knowyoursurrounding/BuildConfig.java
+ com.example.knowyoursurrounding.BuildConfig

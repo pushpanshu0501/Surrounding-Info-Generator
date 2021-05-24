@@ -1,0 +1,10 @@
+#Tue May 25 03:41:29 IST 2021
+base.2=/home/pushpanshu/AndroidStudioProjects/login_app1/KnowYourSurrounding/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+path.2=1/classes.dex
+base.1=/home/pushpanshu/AndroidStudioProjects/login_app1/KnowYourSurrounding/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+path.1=0/classes.dex
+base.0=/home/pushpanshu/AndroidStudioProjects/login_app1/KnowYourSurrounding/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
