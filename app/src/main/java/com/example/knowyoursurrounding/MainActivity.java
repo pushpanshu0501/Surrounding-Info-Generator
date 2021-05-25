@@ -14,6 +14,22 @@ import android.widget.ImageView;
 public class MainActivity extends AppCompatActivity {
     ImageView imageView;
 
+//    val interpreter by lazy {
+//        Interpreter(loadModelFile())
+//    }
+//
+//
+//    private fun loadModelFile(): MappedByteBuffer? {
+//        val fileDescriptor: AssetFileDescriptor = assets.openFd("model.tflite")
+//        val inputStream = FileInputStream(fileDescriptor.fileDescriptor)
+//        val fileChannel: FileChannel = inputStream.channel
+//        val startOffset: Long = fileDescriptor.startOffset
+//        val declaredLength: Long = fileDescriptor.declaredLength
+//        return fileChannel.map(FileChannel.MapMode.READ_ONLY, startOffset, declaredLength)
+//    }
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
